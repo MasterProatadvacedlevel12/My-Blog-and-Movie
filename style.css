@@ -1,0 +1,27 @@
+.myStyle{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+.travel_mainDiv{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.travel_mainDiv img{
+    width: 100%;
+}
+
+.photo{
+    width: 250px;
+    height: 300px;
+}
+
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 11px;
+    display: inline-block;
+    width: 100%;
+}
